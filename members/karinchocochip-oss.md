@@ -1,0 +1,3 @@
+- **ニックネーム**：もか
+- **サイトのURL**：https://karinchocochip-oss.github.io/
+- **ひとこと**：ずっとゴロゴロしていたい。

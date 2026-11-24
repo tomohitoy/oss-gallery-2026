@@ -1,0 +1,3 @@
+- **ニックネーム**：kana
+- **サイトのURL**：https://kanato9106.github.io/kanato9106.github.io
+- **ひとこと**：VRを使ってゲームを遊んだりしています。

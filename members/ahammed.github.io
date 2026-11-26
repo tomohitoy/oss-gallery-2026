@@ -1,0 +1,3 @@
+- **ニックネーム**：アハメド
+- **サイトのURL**：https://g484052024.github.io/ahammed.github.io/
+- **ひとこと**：今回Fork,Pull　Requestなどについて学びます。

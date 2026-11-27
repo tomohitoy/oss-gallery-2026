@@ -1,0 +1,3 @@
+- **ニックネーム**：beautiful
+- **サイトのURL**：https://beautiful-web.github.io/
+- **ひとこと**：紫色を使い、明るい印象にしました。

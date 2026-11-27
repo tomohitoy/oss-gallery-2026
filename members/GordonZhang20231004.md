@@ -1,0 +1,3 @@
+- ニックネーム：Gordon
+- サイトのURL：https://GordonZhang20231004.github.io/
+- ひとこと：情報工学を勉強しています。よろしくお願いします。
